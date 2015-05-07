@@ -1,6 +1,6 @@
 @@ -0,0 +1,223 @@
 #include <iostream>
-#include "a1_doubly_linked_list.hpp"
+#include "doubly_linked_list.hpp"
 
 // returns pointer to node at a given index
 DoublyLinkedList::Node* DoublyLinkedList::getNode(unsigned int index) const{
