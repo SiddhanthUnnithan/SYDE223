@@ -1,5 +1,5 @@
-#ifndef A1_DOUBLY_LINKED_LIST_HPP
-#define A1_DOUBLY_LINKED_LIST_HPP
+#ifndef DOUBLY_LINKED_LIST_HPP
+#define DOUBLY_LINKED_LIST_HPP
 class DoublyLinkedList {
 public:
 	//seen outside as DoublyLinkedList::DataType
